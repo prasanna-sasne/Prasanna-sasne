@@ -60,6 +60,8 @@ const prasanna = {
 
 
 ## 📫 Get in touch
+
+[**Linkedin**](https://www.linkedin.com/in/prasanna-sasne-935294112/)
 <!--
 **prasanna-sasne/Prasanna-sasne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
