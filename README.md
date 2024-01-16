@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Prasanna Sasne
 
 ### A Technology, Software Engineer and Web Developer 💻❤️
