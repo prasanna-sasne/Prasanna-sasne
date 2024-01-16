@@ -54,7 +54,7 @@ const prasanna = {
 
 ⚡️ Graduate Teaching Assistant: Basic Datastructures - [**Oakland University**](https://oakland.edu)
 
-⚡️ Full Stack Software Developer - [**Accenyure Solutions**](https://www.accenture.com/us-en)
+⚡️ Full Stack Software Developer - [**Accenture Solutions**](https://www.accenture.com/us-en)
 
 ⚡️ Full Stack Software Developer - [**Atmecs Technologies**](https://www.atmecs.com)
 
