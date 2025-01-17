@@ -40,7 +40,7 @@ const prasanna = {
 
 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬: MySQL, Mongo DB, Oracle Database, HanaDB  
 
-𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬/𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: AWS, HTML, JavaScript, Python, Angular v5+ and currently using angular 16, CSS, React, Bootstrap, PHP, AngularJS (v 1.5+), REST APIs, Jasmine Framework, JIRA, Confluence, Postman, Jupyter Notebook, Karma, Socket programming (TCP/IP) 
+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬/𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: AWS, HTML, JavaScript, Python, Angular 14+ and currently using angular 16, CSS, React, Bootstrap, PHP, AngularJS (v 1.5+), REST APIs, Jasmine Framework, JIRA, Confluence, Postman, Jupyter Notebook, Karma, Socket programming (TCP/IP), Hibernet, EJB, Spring Boot 
 
 <!-- section - skills -->
 
@@ -48,13 +48,15 @@ const prasanna = {
 
 ## Work Experience 👩‍💼
 
+⚡️ Sr. Software Engineer - [**Interpace Bioscience.**](https://www.interpace.com)
+
 ⚡️ Software Engineer II - [**Horiba Instruments Inc.**](https://www.horiba.com/usa/)
 
 ⚡️ Graduate Teaching Assistant: Basic Datastructures - [**Oakland University**](https://oakland.edu)
 
-⚡️ Full Stack Software Developer - [**Accenture Solutions**](https://www.accenture.com/us-en)
+⚡️ Application Development Analyst - [**Accenture Solutions**](https://www.accenture.com/us-en)
 
-⚡️ Full Stack Software Developer - [**Atmecs Technologies**](https://www.atmecs.com)
+⚡️ Software Developer - [**Atmecs Technologies**](https://www.atmecs.com)
 
 
 ## 📫 Get in touch
